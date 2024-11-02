@@ -1,2 +1,25 @@
-# ARUL-CHINNA---Portfolio
-"ARUL CHINNAS - Portfolio" A showcase of my work as a Computer Science student. Explore projects like the Automatic Time Table, Bandwidth Monitoring tool, and my research on modified combustion engines. This portfolio reflects my skills in programming and cybersecurity. Connect with me for collaboration or inquiries!
+# ARUL CHINNAS - Portfolio
+
+Welcome to my portfolio! I am Arul Chinnas, a Computer Science student and technology enthusiast. This portfolio showcases my projects and skills in programming, cybersecurity, and network security.
+
+## Projects Included:
+- **Automatic Time Table**: A scheduling tool for generating optimized class schedules, enhancing time management for students.
+- **Bandwidth Monitoring**: A tool that leverages SNMP libraries to monitor network interface statistics in real-time, providing insights into network performance.
+- **Research Paper**: "Advanced Study of Modified Internal Combustion Engine to Run with 88% Ethanol", exploring innovative approaches to renewable fuels.
+
+## Features:
+- User-friendly interface for easy navigation.
+- Interactive project descriptions with insights into the technology used.
+- Contact page for networking and collaboration opportunities.
+
+## Technologies Used:
+- HTML, CSS, JavaScript for frontend development.
+- SNMP for bandwidth monitoring.
+- Research methodologies for academic writing.
+
+## Get in Touch:
+Feel free to explore my projects, connect with me, and provide feedback! You can reach me through my social media links:
+- [LinkedIn](https://www.linkedin.com/in/arul-chinnas-92b9b0247/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [GitHub](https://github.com/Chinnas05/Jeffery)
+
+Thank you for visiting my portfolio!
