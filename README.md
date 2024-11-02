@@ -13,9 +13,9 @@ Welcome to my portfolio! I am Arul Chinnas, a Computer Science student and techn
 - Contact page for networking and collaboration opportunities.
 
 ## Technologies Used:
-- HTML, CSS, JavaScript for frontend development.
-- SNMP for bandwidth monitoring.
-- Research methodologies for academic writing.
+- **HTML**: The foundational markup language for creating the structure of the web pages in my portfolio.
+- **CSS**: Used for styling the visual presentation of the portfolio, ensuring a responsive and attractive design.
+
 
 ## Get in Touch:
 Feel free to explore my projects, connect with me, and provide feedback! You can reach me through my social media links:
